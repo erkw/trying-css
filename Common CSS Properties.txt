@@ -52,3 +52,22 @@ Border
 Margin
 content-box - is the height and width specified that makes the content area
 border-box - is the height and width with the border combined with padding and content
+
+
+Display properties-
+
+Block - takes 100% width and starts on a new line
+e.g. <p> <div> tags
+Inline - doesn't allow you to set a width or height for element & starts on the same line
+e.g. <span> <img> tags
+
+
+Position properties- 
+
+Static(default) - follows normal flow of the page
+Relative - follows normal flow of the page & lets you position using top, left, bottom, right
+Absolute - does not follow the normal flow of the page & lets you position with top, left, bottom, right
+position is based off closest "poisition: relative" parent
+UNCOMMON
+Fixed - Sticks elements to a permanent location on the page & lets you use top, left, bottom, right
+Sticky - sticks element to a permanent location on the page once it hits a threshold
