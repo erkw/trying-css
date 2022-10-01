@@ -43,3 +43,12 @@ ID
 #test{
     color:red;
 }
+
+Box Model - A container that consists of muiltiple different properties
+Consists of:
+Content
+Padding
+Border
+Margin
+content-box - is the height and width specified that makes the content area
+border-box - is the height and width with the border combined with padding and content
