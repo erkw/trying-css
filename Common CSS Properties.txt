@@ -4,16 +4,19 @@ color - sets the color of the text
 background-color - sets the background-color of the element
 
 width - sets the width of the element
-vw = viewport width
 max-width = how far it can go when stretching out
 
 height - sets the height of the element
 vh = viewport height
+vw = viewport width
 
 border - sets a border around the element
 
-font-size - 
+font-size - size of font
 
-fong-weight - 
+font-weight - how bold the font is
 
-font-family - 
+font-family - what kind of font it is, times new roman, roboto, etc
+"roboto", sans-serif
+second font family is backup if roboto doesn't load
+sans-serif can be loaded to any site on any device

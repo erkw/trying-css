@@ -1,12 +1,9 @@
-h1 {
-  background-color: red;
-  color: rgb(192, 144, 144);
-}
-
 div {
   width: 100%;
   max-width: 200px;
-  height: 100vh;
-  background-color: antiquewhite;
+  height: 100vw;
   border: 1px solid black;
+  font-size: 12px;
+  font-weight: 700;
+  font-family: "Roboto", sans-serif;
 }
