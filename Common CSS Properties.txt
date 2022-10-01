@@ -79,3 +79,31 @@ Common breakpoints (max-width)
 768px - tablets
 992px - desktops
 1200px+ - large desktops
+
+Pseudo Selectors
+After - Can add content after your chosen class
+Before - Can add content after your chosen class
+Hover - Can add color when hovering selected text
+
+Transition to always goes on parent class from div:hover to div
+
+Animations
+animation: float 2000ms infinite alternate-reverse;
+infinite to do loop with alternate-reverse to not jump back to the beginning without loop
+
+Keyframe is to set animations
+@keyframes float{
+  0%{
+    transform: translateY(0);
+  }
+  100%{
+    transform: translateY(10px);
+  }
+}
+
+BEM (Block-Element-Modifier) is a naming convention used for
+CSS classes to make them esier to read and understand
+
+B(Block) is the block component
+E(Element) is dependent on the block component
+M(Modifier) is used to change the style of the block
