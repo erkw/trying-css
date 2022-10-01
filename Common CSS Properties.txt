@@ -1,0 +1,19 @@
+color - sets the color of the text
+3 ways to set colors -> Words, RGB, Hex
+
+background-color - sets the background-color of the element
+
+width - sets the width of the element
+vw = viewport width
+max-width = how far it can go when stretching out
+
+height - sets the height of the element
+vh = viewport height
+
+border - sets a border around the element
+
+font-size - 
+
+fong-weight - 
+
+font-family - 
