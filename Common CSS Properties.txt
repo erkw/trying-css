@@ -20,3 +20,26 @@ font-family - what kind of font it is, times new roman, roboto, etc
 "roboto", sans-serif
 second font family is backup if roboto doesn't load
 sans-serif can be loaded to any site on any device
+
+Specificity is the prioritization of the styling
+
+
+Referencing HTML elements to style it
+
+Tag name:
+<div></div>
+div{
+    color:red;
+}
+
+Class
+<div class="test"></div>
+.test{
+    color:red;
+}
+
+ID
+<div id="test"></div>
+#test{
+    color:red;
+}
