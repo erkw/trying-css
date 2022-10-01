@@ -71,3 +71,11 @@ position is based off closest "poisition: relative" parent
 UNCOMMON
 Fixed - Sticks elements to a permanent location on the page & lets you use top, left, bottom, right
 Sticky - sticks element to a permanent location on the page once it hits a threshold
+
+
+Media Queries are used to make a web page responsive
+Common breakpoints (max-width)
+576px - mobile phones
+768px - tablets
+992px - desktops
+1200px+ - large desktops
